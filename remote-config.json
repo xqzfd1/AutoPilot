@@ -1,7 +1,7 @@
 {
-    "updatedAt":  "2026-06-13T22:51:19+08:00",
-    "message":  "",
-    "disabled":  false,
+    "updatedAt":  "2026-06-13T22:59:42+08:00",
+    "message":  "remote disabled test",
+    "disabled":  true,
     "minVersion":  "0.1.0",
-    "enabled":  true
+    "enabled":  false
 }
